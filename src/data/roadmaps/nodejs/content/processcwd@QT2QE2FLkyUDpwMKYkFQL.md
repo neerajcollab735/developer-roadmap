@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Official Website](https://nodejs.org/api/process.html#processcwd)
 - [@article@Whats the difference between process.cwd() vs \_\_dirname?](https://stackoverflow.com/questions/9874382/whats-the-difference-between-process-cwd-vs-dirname)
+- [@article@Whats the difference between process.cwd() vs \_\_dirname?](https://dev.to/qbentil/nodejs-dirname-vrs-processcwd-3k88)
